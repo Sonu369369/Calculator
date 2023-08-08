@@ -1,0 +1,11 @@
+.nav {
+    display: flex;
+    font-size: 58px;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+    color: blue;
+    /* background-color: yellow; */
+    width: 100%;
+    font-family: cursive;
+}
